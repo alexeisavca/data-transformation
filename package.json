@@ -1,0 +1,15 @@
+{
+  "name": "@alexeisavca/data-transformation",
+  "version": "0.0.1",
+  "description": "Data transformation tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "data",
+    "transformation"
+  ],
+  "author": "Alexei Savca",
+  "license": "ISC"
+}
